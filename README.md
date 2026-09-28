@@ -6,6 +6,8 @@ This project analyzes sales data to identify important business
 insights such as total sales, profit, product performance and
 regional performance.
 
+## Project URL: https://roadmap.sh/projects/pharmaceutical-sales-data
+
 ## Objectives
 
 - Analyze sales performance
